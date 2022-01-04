@@ -4,3 +4,10 @@
 Currently it will pull and display balances, USD equivilant and total portofolio value.
 
 ### Future  Plans:
+
+* Ability to trade from the application.
+* Risk/trade managment rules.
+* Smart trailing TP based on levels choosen by user.
+* Trailing entries
+* GUI development
+* Incorporate addtional brokers
