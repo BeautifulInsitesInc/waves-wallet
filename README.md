@@ -3,6 +3,8 @@
 
 Currently it will pull and display balances, USD equivilant and total portofolio value.
 
+This project is experimental, and temporarily on hold.
+
 ### Future  Plans:
 
 * Ability to trade from the application.
