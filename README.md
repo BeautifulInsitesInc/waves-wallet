@@ -3,7 +3,9 @@
 
 Currently it will pull and display balances, USD equivilant and total portofolio value.
 
-This project is experimental, and temporarily on hold.
+This project is experimental, playing around with [ccxt](https://github.com/ccxt/ccxt) and temporarily on hold
+
+----
 
 ### Future  Plans:
 
@@ -13,3 +15,5 @@ This project is experimental, and temporarily on hold.
 * Trailing entries
 * GUI development
 * Incorporate addtional brokers
+
+----
